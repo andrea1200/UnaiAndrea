@@ -1,1 +1,2 @@
-"" 
+"preparación para divergencia y posterior merge"
+"versión Z" 
