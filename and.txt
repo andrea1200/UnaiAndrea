@@ -1,3 +1,7 @@
 "preparación para divergencia y posterior merge"
 VersionUno 
+<<<<<<< HEAD
 cambio
+=======
+Creacion V1.1
+>>>>>>> d40e547eef710d985792451dfbec86baf7656e94
